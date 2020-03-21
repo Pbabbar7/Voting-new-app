@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: Pankaj-voter-pod
+  name: pankaj-voter-pod
   labels:
     name: voter-app-pod
     app: demo-voting-app
